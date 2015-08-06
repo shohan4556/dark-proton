@@ -1,0 +1,24 @@
+{
+    "name": "dark-proton-theme",
+    "title": "Dark Proton Theme",
+    "description": "Save your eyse .... ",
+    "homepage": "https://github.com/shohan4556/dark-proton",
+    "version": "1.0",
+    "author": "Shohanur Rahaman <shohan4556@gmail.com> (https://github.com/shohan4556)",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true
+    },
+    "keywords": [
+        "dark-proton",
+        "theme",
+        "dark",
+        "Save-eyes",
+        "night-work"
+        "Syntax"
+    ],
+    "categories": [
+        "visual"
+    ]
+}
